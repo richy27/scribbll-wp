@@ -1,0 +1,25 @@
+/*
+Theme Name: wpeddit
+Theme URI: http://reddit.epicplugins.com
+Author: mikemayhem3030
+Author URI: http://codecanyon.net/user/mikemayhem3030
+Description: WPeddit for WordPress is a theme based on the design of reddit allowing you to be able to rank your posts through visitor interaction, it comes with its own widgets, built on the Twitter Bootstrap it can be skinned by any twitter bootstrap skin with a few small tweaks. Powerful and Ultimately flexible.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: light, gray, white, one-column, two-columns, right-sidebar, flexible-width, custom-background, custom-header, custom-menu, editor-style, featured-images, flexible-header, full-width-template, microformats, post-formats, rtl-language-support, sticky-post, theme-options, translation-ready
+Text Domain: twentytwelve
+
+
+*/
+
+
+
+/*
+ * This file intentionally left blank. Stylesheets are enqueued dynamically by the functions.php
+ * 
+ */
+
+.logo{
+	padding:10px;
+}

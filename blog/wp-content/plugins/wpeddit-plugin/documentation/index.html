@@ -1,0 +1,351 @@
+<!doctype html>  
+<!--[if IE 6 ]><html lang="en-us" class="ie6"> <![endif]-->
+<!--[if IE 7 ]><html lang="en-us" class="ie7"> <![endif]-->
+<!--[if IE 8 ]><html lang="en-us" class="ie8"> <![endif]-->
+<!--[if (gt IE 7)|!(IE)]><!-->
+<html lang="en-us"><!--<![endif]-->
+<head>
+	<meta charset="utf-8">
+	
+	<title>WPeddit - Create your own version of reddit using WordPress</title>
+	
+	<meta name="description" content="Welcome to the WPeddit documentation. Enjoy it and have fun">
+	<meta name="author" content="mikemayhem3030">
+	<meta name="copyright" content="mikemayhem3030">
+	<meta name="generator" content="Documenter v1.6 http://rxa.li/documenter">
+	<meta name="date" content="2013-02-14T00:00:00+01:00">
+	
+	<link rel="stylesheet" href="css/documenter_style.css" media="all">
+	
+	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
+
+	<script src="js/jquery.1.6.4.js"></script>
+	
+	<script src="js/jquery.scrollTo-1.4.2-min.js"></script>
+	<script src="js/jquery.easing.js"></script>
+	
+	<link rel="stylesheet" href="css/shDocumenter.css" media="screen">
+	<script src="js/shCore.js"></script>
+	<script src="js/shBrushCss.js"></script>
+	<script src="js/shBrushXml.js"></script>
+	<script>SyntaxHighlighter.defaults['toolbar'] = false;SyntaxHighlighter.all();</script>
+
+	<script>document.createElement('section');var duration=500,easing='swing';</script>
+	<script src="js/script.js"></script>
+	
+	<style>
+		html{background-color:#FFFFFF;color:#383838;}
+		::-moz-selection{background:#444444;color:#DDDDDD;}
+		::selection{background:#444444;color:#DDDDDD;}
+		#documenter_sidebar #documenter_logo{background-image:url(assets/images/image_14.png);}
+		a{color:#0000FF;}
+		hr{border-top:1px solid #EBEBEB;border-bottom:1px solid #FFFFFF;}
+		#documenter_sidebar, #documenter_sidebar ol a{background-color:#DDDDDD;color:#222222;}
+		#documenter_sidebar ol a{-webkit-text-shadow:1px 1px 0px #EEEEEE;-moz-text-shadow:1px 1px 0px #EEEEEE;text-shadow:1px 1px 0px #EEEEEE;}
+		#documenter_sidebar ol{border-top:1px solid #AAAAAA;}
+		#documenter_sidebar ol a{border-top:1px solid #EEEEEE;border-bottom:1px solid #AAAAAA;color:#444444;}
+		#documenter_sidebar ol a:hover{background:#444444;color:#DDDDDD;border-top:1px solid #444444;}
+		#documenter_sidebar ol a.current{background:#444444;color:#DDDDDD;border-top:1px solid #444444;}
+		#documenter_copyright{display:block !important;visibility:visible !important;}
+	</style>
+	
+</head>
+<body>
+	<div id="documenter_sidebar">
+		<a href="#documenter_cover" id="documenter_logo"></a>
+		<ol id="documenter_nav">
+			<li><a class="current" href="#documenter_cover">Start</a></li>
+			<li><a href="#files_included">Files included</a></li>
+			<li><a href="#install_theme">Install Theme</a></li>
+			<li><a href="#install_plugin">Install Plugin</a></li>
+			<li><a href="#theme_your_login">Theme your login</a></li>
+			<li><a href="#powerful_control_panel">Powerful Control Panel</a>
+				<ol>
+					<li><a href="#powerful_control_panel_theme_options">Theme Options</a>
+					<li><a href="#powerful_control_panel_plugin_homepage">Plugin Homepage</a>
+					<li><a href="#powerful_control_panel_plugin_settings">Plugin Settings</a>
+				</ol>
+			</li>
+			<li><a href="#widgets">Widgets</a></li>
+			<li><a href="#shortcodes">Shortcodes</a></li>
+			<li><a href="#starter_themes">Starter Themes</a>
+				<ol>
+					<li><a href="#starter_themes_plain_bootstrap">Plain bootstrap</a>
+					<li><a href="#starter_themes_plain_bootstrap_fixed_navigation">Plain bootstrap fixed navigation</a>
+					<li><a href="#starter_themes_light_skin_fixed_or_floating_navigation_">Light skin (fixed or floating navigation)</a>
+					<li><a href="#starter_themes_dark_skin_floating_navigation_">Dark skin (floating navigation)</a>
+				</ol>
+			</li>
+			<li><a href="#mutli_skin">Mutli Skin</a></li>
+			<li><a href="#further_help">Further help</a></li>
+
+		</ol>
+		<div id="documenter_copyright">Copyright mikemayhem3030 2013<br>
+		made with the <a href="http://rxa.li/documenter">Documenter v1.6</a> 
+		</div>
+	</div>
+	<div id="documenter_content">
+	<section id="documenter_cover"><h1>WPeddit</h1><h2>Create your own version of reddit using WordPress</h2><hr><ul><li>Created: 02/14/2013</li><li>latest Update: 02/14/2013</li><li>By: mikemayhem3030</li><li><a href="http://epicplugins.com/">epicplugins.com/</a></li><li>Email: <a href="mailto:&#109;&#105;&#107;&#101;&#109;&#97;&#121;&#104;&#101;&#109;&#51;&#48;&#51;&#48;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;">&#109;&#105;&#107;&#101;&#109;&#97;&#121;&#104;&#101;&#109;&#51;&#48;&#51;&#48;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;</a></li></ul><p>Welcome to the WPeddit documentation. Enjoy it and have fun</p></section><section id="files_included">
+	<h3>Files included</h3><hr class="notop">
+<p>
+	The WPeddit theme is more than just a theme. It comes packaged with a number of files to help you transform your website into a powerful post rating tool</p>
+<p>
+	<img alt="file structure" src="assets/images/image_1.png" style="width: 851px; height: 290px;"></p>
+<p>
+	The files that are needed to create your website to be inline with the demo site ate</p>
+<ol>
+	<li>
+		<strong>documentation:</strong> this is the location of this documentation file. It is also accessed via the documentation link once the theme and plugin are installed</li>
+	<li>
+		<strong>theme-my-login</strong>: this is a free file available from <a href="http://wordpress.org/extend/plugins/theme-my-login/" target="_blank">wordpress.org here</a>&nbsp;in the theme I have created two custom login and registration forms for this plugin.&nbsp;</li>
+	<li>
+		<strong>wpeddit-plugin:</strong> this is the wpeddit functions file and is needed to be able to display the posts in hot and newest order. It contains a lot of the magic. This is the theme edition of the plugin and only works alongside this theme. For a stand-alone plugin please do <a href="http://codecanyon.net/user/mikemayhem3030">watch this space</a>&nbsp;or <a href="http://codecanyon.net/user/mikemayhem3030/follow/">follow me</a></li>
+	<li>
+		<strong>wpeddit-theme:</strong> this has the theme for the wpeddit demo site. It comes with the default theme (shown on the demo site) as well as 3 starter themes (bootstrap, light and dark).</li>
+</ol>
+<h2>
+	How to get setup?</h2>
+<p>
+	Setting up your site is easy. Each file is in .zip format and you can upload these directly to your WordPress website via the plugin installer or the theme installer.&nbsp;</p>
+<p>
+	&nbsp;</p>
+</section>
+<section id="install_theme">
+	<h3>Install Theme</h3><hr class="notop">
+<p>
+	To install the theme first visit the Appearance tab of your WordPress install. Then click install themes. Then choose upload.</p>
+<p>
+	<img alt="Install theme" src="assets/images/image_2.png" style="width: 820px; height: 367px;"></p>
+<ol>
+	<li>
+		Navigate to the wpeddit-theme.zip file that was part of the themeforest download and click install now.</li>
+	<li>
+		Follow the steps and click activate&nbsp;</li>
+</ol>
+<p>
+	<img alt="Success" src="assets/images/image_4.png" style="width: 1175px; height: 737px;"></p>
+<p>
+	Your theme is now installed and activated, easy eh? but it won&#39;t quite work just yet. The next step is to install the plugin.</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+</section>
+<section id="install_plugin">
+	<h3>Install Plugin</h3><hr class="notop">
+<p>
+	The steps for installing a plugin are similar to installing a theme. Navigate to the Plugins menu on your WordPress install and choose add new. Then upload.</p>
+<p>
+	<img alt="upload plugin" src="assets/images/image_3.png" style="width: 698px; height: 353px;"></p>
+<p>
+	&nbsp;</p>
+<p>
+	Follow the steps on screen and then activate the plugin. You&#39;re now ready to roll with your new install of WPeddit.</p>
+</section>
+<section id="theme_your_login">
+	<h3>Theme your login</h3><hr class="notop">
+<p>
+	An additonal file that is included is theme my login. This is a free file available from&nbsp;<a href="http://wordpress.org/extend/plugins/theme-my-login/" target="_blank">wordpress.org here</a>&nbsp;in the theme I have created two custom login and registration forms for this plugin. Using this plugin will mean the modal drop down works a charm for your site.&nbsp;</p>
+<p>
+	<img alt="modal" src="assets/images/image_8.png" style="width: 1383px; height: 638px;"></p>
+<p>
+	This pretty drop down login form has been created as part of the WPeddit theme and to display the forms for login and registration two new templates for the theme my login plugin have been created and are included with the WPeddit theme.</p>
+</section>
+<section id="powerful_control_panel">
+	<h3>Powerful Control Panel</h3><hr class="notop">
+<h4 id="powerful_control_panel_theme_options">Theme Options</h4>
+<p>
+	The WPeddit theme and plugin combination come with a powerful control panel to get you started and on your way.&nbsp;</p>
+<p>
+	<img alt="Theme Options" src="assets/images/image_5.png" style="width: 1255px; height: 732px;"></p>
+<p>
+	The options for the theme are</p>
+<ol>
+	<li>
+		theme stylesheet: this WPeddit theme comes with the default theme (as shown in the demo) as well as 3 starter themes for you to choose from. They are (vanilla) bootstrap, light and dark. You can see more in the Starter Themes section</li>
+	<li>
+		menu style: fixed or floating. This gives you the option of either having the navigation menu for the theme as a fixed to the top menu, or a floating menu. These are not available under the default theme as this has it&#39;s own fancy menus.</li>
+	<li>
+		Logo URL: display your logo for the site when you are not under the default theme.</li>
+</ol>
+<p>
+	<strong>How do I change my logo on the default theme?</strong></p>
+<p>
+	The logo for the default theme is by default the wpeddit logo. This is a background URL of a style container and can be found (and changed) in default.css</p>
+<pre class="brush: css">
+</pre>
+<p class="p1">
+	#header-img.default-header {</p>
+<p class="p2">
+	text-indent<span class="s1">: -</span><span class="s2">9999</span><span class="s3">px</span><span class="s1">;</span></p>
+<p class="p1">
+	<strong><span class="s4">background-image</span>: <span class="s5">url</span>(./img/wpeddit-default.png);</strong></p>
+<p class="p2">
+	background-repeat<span class="s1">: </span><span class="s6">no-repeat</span><span class="s1">;</span></p>
+<p class="p2">
+	height<span class="s1">: </span><span class="s2">40</span><span class="s3">px</span><span class="s1">;</span></p>
+<p class="p2">
+	width<span class="s1">: </span><span class="s2">120</span><span class="s3">px</span><span class="s1">;</span></p>
+<p class="p3">
+	<span class="s4">display</span><span class="s1">: </span>inline-block<span class="s1">;</span></p>
+<p class="p2">
+	vertical-align<span class="s1">: </span><span class="s6">bottom</span><span class="s1">;</span></p>
+<p class="p2">
+	margin-bottom<span class="s1">: </span><span class="s2">3</span><span class="s3">px</span><span class="s1">;</span></p>
+<p class="p2">
+	padding-left<span class="s1">:</span><span class="s2">10</span><span class="s3">px</span><span class="s1">;</span></p>
+<p class="p1">
+	}</p>
+<p>
+	The optimal size of this logo is 120px wide by 40px high. Replacing the text inside the url() with the URL to your logo will update this.</p>
+<p>
+	<strong>Can I change the colors of the default theme?</strong></p>
+<p>
+	Yes. If you know how to edit the CSS. The CSS you will need to edit is in default.css. You can also add more styles to the style.css of the theme.&nbsp;</p>
+<h4 id="powerful_control_panel_plugin_homepage">Plugin Homepage</h4>
+<p>
+	<img alt="plugin home" src="assets/images/image_6.png" style="width: 1259px; height: 739px;"></p>
+<p>
+	The plugin homepage control panel is really powerful. You can see up to date news from my site epicplugins.com and find out which new epic plugins are coming soon to the Envato marketplaces. You can also sign up to the newsletter, check out the support forum, join the mailing list or just email me to say hello :)</p>
+<p>
+	The three main buttons take you to the settings page of the plugin, the post rankings or the demo site.</p>
+<h4 id="powerful_control_panel_plugin_settings">Plugin Settings</h4>
+<p>
+	<img alt="Plugin settings" src="assets/images/image_7.png" style="width: 1325px; height: 595px;"></p>
+<p>
+	The settings for the post ranking are set via the plugin settings page. There are only a couple of options here.</p>
+<ol>
+	<li>
+		Enter your item purchase code. This can be found in your licence certificate from the downloads tab of your themeforest page.</li>
+	<li>
+		Lock votes by IP or Member: Vote security options. You can either force users to be logged in to be able to vote, or handle vote security by allowing one vote per IP.</li>
+	<li>
+		Save front end posts as: Pending Review or Published. If you decide to use the shortcode to offer front end posting. They can be saved as pending review or published. The choice is yours. Pending review means they do not instantly appear on your website and this can be used to control your content.</li>
+</ol>
+<p>
+	&nbsp;</p>
+</section>
+<section id="widgets">
+	<h3>Widgets</h3><hr class="notop">
+<p>
+	The WPeddit theme comes with a number of widgets.&nbsp;</p>
+<p>
+	<img alt="widgets" src="assets/images/image_9.png" style="width: 938px; height: 542px;"></p>
+<p>
+	These are</p>
+<ol>
+	<li>
+		<strong>Create a fancy link</strong>: This lets you create a link in the fancy blue button as seen on the demo site. This only works on the default theme.&nbsp;</li>
+	<li>
+		<strong>Hot Posts</strong>: Displays in a widget area your websites hottests posts</li>
+	<li>
+		<strong>Display the Side Menu: </strong>this creates a single level vertical tab menu for any of the themes included. A top level menu is not included on the default theme so this is a powerful alternative.</li>
+</ol>
+</section>
+<section id="shortcodes">
+	<h3>Shortcodes</h3><hr class="notop">
+<p>
+	This is where the juicy stuff comes in. The shortcodes.&nbsp;</p>
+<p>
+	The theme and plugin combo come with a couple of shortcodes to get your started.&nbsp;</p>
+<pre class="brush: html">
+[wpedditfront]
+</pre>
+<p>
+	This creates the &quot;Add a post&quot; page for the front end of your website. This is a powerful front end blogging tool which can be used to quickly and easily add content from the front end. Submissions are controlled via the settings page.&nbsp;</p>
+<pre class="brush: html">
+[wpedditcreate]
+</pre>
+<p>
+	This creates the &quot;Add your category&quot; page for the front end of your website. You can quickly and easily add new categories using this page and give them a meaningful description.</p>
+<p class="warning">
+	Recommended: Setting for using these shortcodes is to have the &quot;Pending Review&quot; set on the Plugin Control Panel.</p>
+<pre class="brush: html">
+[wpedditmorecats]</pre>
+<p>
+	This prints out a list of your categories along with descriptions on any page. This is useful if you have a lot of categories.&nbsp;</p>
+<p>
+	Everything else is handed by the theme template files and plugin functions. It&#39;s really easy to get started.</p>
+<p>
+	&nbsp;</p>
+</section>
+<section id="starter_themes">
+	<h3>Starter Themes</h3><hr class="notop">
+<p>
+	As well as a the default theme shown in the demo there are 3 starter themes included in this theme.</p>
+<h4 id="starter_themes_plain_bootstrap">Plain bootstrap</h4>
+<p>
+	<img alt="bootstrap" src="assets/images/image_10.png" style="width: 1440px; height: 900px;"></p>
+<h4 id="starter_themes_plain_bootstrap_fixed_navigation">Plain bootstrap fixed navigation</h4>
+<p>
+	<img alt="" src="assets/images/image_11.png"></p>
+<h4 id="starter_themes_light_skin_fixed_or_floating_navigation_">Light skin (fixed or floating navigation)</h4>
+<p>
+	<img alt="" src="assets/images/image_12.png" style="width: 1440px; height: 900px;"></p>
+<h4 id="starter_themes_dark_skin_floating_navigation_">Dark skin (floating navigation)</h4>
+<p>
+	<img alt="" src="assets/images/image_13.png"></p>
+</section>
+<section id="mutli_skin">
+	<h3>Mutli Skin</h3><hr class="notop">
+<p class="warning">
+	This is for nerds only. It needs a decent level of expertise in CSS and Javascript. For PROs only.</p>
+<p>
+	Since the theme and plugin have both been developed on the bootstrap they can be skinned to any of the bootstrap skins that are available.</p>
+<p>
+	Any problems with compatiablity of new bootstrap skins will need testing and with 30+ (and growing) skins to choose from this feature is very experimental</p>
+<p class="info">
+	This feature is still in the experimental phase and has not been testing with all bootstrap skins.</p>
+<p>
+	To be able to change your skin to other bootstrap skins follow these simple steps:</p>
+<ol>
+	<li>
+		Check out the <a href="http://codecanyon.net/category/skins/bootstrap?ref=mikemayhem3030">available skins on CodeCanyon here</a></li>
+	<li>
+		Find one you like and purchase and download it</li>
+	<li>
+		The download files usually contain
+		<ul style="">
+			<li>
+				bootstrap.css</li>
+			<li>
+				bootstrap.js</li>
+			<li>
+				images</li>
+		</ul>
+	</li>
+	<li>
+		Make a backup of the bootstrap.css and bootstrap.js that are included with WPeddit (in case you want to reverse the changes).</li>
+</ol>
+<p>
+	Add the images from the image folder into the /img folder of the theme as well as any additonal javascript in the /js folder of the theme.&nbsp;</p>
+<p>
+	If there is additonal javascript files these will need to be enqueued seperately to be able to work.</p>
+</section>
+<section id="further_help">
+	<h3>Further help</h3><hr class="notop">
+<p>
+	For any further help with using this plugin or theme you can</p>
+<ol>
+	<li>
+		Open a ticket on the <a href="http://epicplugins.com/support-forums/">Support Forum</a></li>
+	<li>
+		<a href="mailto:&#109;&#105;&#107;&#101;&#109;&#97;&#121;&#104;&#101;&#109;&#51;&#48;&#51;&#48;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;?subject=WPeddit%3A%20Help%20Me&amp;body=Help%20needed">Send me an email&nbsp;</a></li>
+	<li>
+		Check out my <a href="http://codecanyon.net/user/mikemayhem3030">CodeCanyon profile</a></li>
+</ol>
+<p>
+	If you like this theme and plugin and would like more, check out <a href="http://codecanyon.net/user/mikemayhem3030/portfolio">my portfolio on CodeCanyon</a></p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+</section>
+
+	</div>
+</body>
+</html>

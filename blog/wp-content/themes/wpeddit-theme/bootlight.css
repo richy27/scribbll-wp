@@ -1,0 +1,291 @@
+body { 
+background-image: url(./img/debut_light.png);
+ }
+
+.main-content{
+	min-height:600px;
+}
+
+.footer{
+	padding-top:50px;
+	border-top: 1px solid #ddd;
+}
+
+.footer p{
+	color: black;
+	font:bold;
+}
+
+.cat-item{
+white-space: nowrap;
+text-transform: uppercase;
+font: normal x-small verdana,arial,helvetica,sans-serif;
+}
+
+.cat-item-div{
+	line-height: 32px;
+}
+
+
+.cat-item-front{
+	text-transform: uppercase;
+	font: bold x-small verdana,arial,helvetica,sans-serif;
+	color:black;
+}
+
+.cat-item-front a{
+	text-transform: uppercase;
+	font: bold x-small verdana,arial,helvetica,sans-serif;
+	color:black;
+}
+
+
+#theme-my-login li{
+	list-style-type:none;
+}
+
+.score{
+text-align: center;
+color: #c6c6c6;
+font-weight: bold;
+font-size: small;
+}
+
+.score2{
+text-align: center;
+color: #c6c6c6;
+font-weight: bold;
+font-size: small;
+}
+
+.arrow.up {
+background-image: url(./img/sprite-reddit.HLCFG7U22Hg.png);
+background-position: -47px -629px;
+background-repeat: no-repeat;
+}
+
+.arrow2.up {
+background-image: url(./img/sprite-reddit.HLCFG7U22Hg.png);
+background-position: -47px -629px;
+background-repeat: no-repeat;
+}
+
+.arrow.down {
+background-image: url(./img/sprite-reddit.HLCFG7U22Hg.png);
+background-position: -102px -612px;
+background-repeat: no-repeat;
+}
+
+.arrow2.down {
+background-image: url(./img/sprite-reddit.HLCFG7U22Hg.png);
+background-position: -102px -612px;
+background-repeat: no-repeat;
+}
+
+.arrow.upmod {
+background-image: url(./img/sprite-reddit.HLCFG7U22Hg.png);
+background-position: -63px -629px;
+background-repeat: no-repeat;
+}
+
+.arrow.downmod {
+background-image: url(./img/sprite-reddit.HLCFG7U22Hg.png);
+background-position: -31px -629px;
+background-repeat: no-repeat;
+}
+
+.arrow {
+margin: 2px 0px 0px 0px;
+width: 100%;
+height: 14px;
+display: block;
+cursor: pointer;
+background-position: center center;
+background-repeat: no-repeat;
+width: 15px;
+margin-left: auto;
+margin-right: auto;
+outline: none;
+}
+
+.arrow2 {
+margin: 2px 0px 0px 0px;
+width: 100%;
+height: 14px;
+display: block;
+cursor: pointer;
+background-position: center center;
+background-repeat: no-repeat;
+width: 15px;
+margin-left: auto;
+margin-right: auto;
+outline: none;
+}
+
+.sidebar ul li{
+	list-style-type:none;
+}
+
+
+.reddit-voting{
+	width:50px;
+	text-align:center;
+	float:left;
+}
+
+
+#myModal ul li{
+	list-style-type:none;
+}
+
+.reddit-post {
+width: 80%;
+padding-left: 2%;
+}
+
+.tabmenu {
+list-style-type: none;
+white-space: nowrap;
+display: inline-block;
+margin-top: 5px;
+vertical-align: bottom;
+}
+
+.lead{
+	padding-bottom:10px;
+}
+
+
+.unvoted{
+	color: #c6c6c6;
+}
+
+.likes{
+color: #FF8B60;
+}
+
+.score.dislikes {
+color: #9494FF;
+}
+
+.divide {
+border-right: 1px solid #D3D3D3;
+padding-left: 5px;
+padding-right: 5px;
+}
+
+.reddit-row{
+	height:10px;
+}
+
+.reddit-register{
+	width:48%;
+}
+
+.reddit-login{
+	width:46%;
+}
+
+
+.title {
+font-size: medium;
+font-weight: normal;
+margin-bottom: 1px;
+color: blue;
+margin-right: .4em;
+padding: 0px;
+overflow: hidden;
+}
+
+.footer{
+
+}
+
+
+.red-more li{
+	list-style-type:none;
+}
+
+.footer li{
+	list-style-type:none;
+}
+
+.morelink2 a:hover{
+	text-decoration:none !important;
+}
+
+
+
+#respond input[type=text]{
+	width:80%;
+}
+#respond textarea{
+	width:80%;
+}
+
+.width-clip .cat-item{
+	display:inline;
+	color: #777777;
+	padding-left:2px;
+}
+.reddit-left-menu{
+	width:96%;
+	float:left;
+	overflow:hidden;
+}
+
+
+.red-login{
+	width:45%;
+	float:left;
+	padding-right:2%;
+}
+
+.red-pword{
+	width:49%;
+	float:right;
+}
+
+.red-login input[type=text]{
+	width:90%;
+	float:left;
+}
+
+.red-pword input[type=text]{
+	width:90%;
+	float:right;
+}
+
+.red-pword input[type=password] {
+	width:90%;
+	float:right;
+}
+
+.form-search input[type=text]{
+	width:95%;
+}
+
+.submit input[type=submit]{
+	margin:0px;
+}
+
+.tml-action-links{
+	padding-left:1%;
+}
+
+#theme-my-login1{
+padding-bottom: 3%;
+margin-bottom: 3%;
+}
+
+.forgetmenot{
+	padding-right:2%;
+}
+
+.rememberme{
+		font-size:smaller;
+}
+
+.red-login-form p{
+	margin:0px;
+}

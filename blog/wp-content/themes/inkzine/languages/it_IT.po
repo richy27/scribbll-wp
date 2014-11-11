@@ -1,0 +1,976 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: InkZine\n"
+"POT-Creation-Date: 2014-02-13 18:12+0530\n"
+"PO-Revision-Date: 2014-02-13 18:12+0530\n"
+"Last-Translator: Rohit Tripathi <rohit@rohitink.com>\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: esc_attr_e;esc_attr_x;_x;_e;__\n"
+"X-Poedit-SearchPath-0: /Users/mac/Documents/Developer/Theme-Development/wp-"
+"content/themes/inkzine\n"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! That page can&rsquo;t be found."
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/404.php:19
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/archive.php:31
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/author.php:18
+#, php-format
+msgid "Author: %s"
+msgstr "Author: %s"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/archive.php:39
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/date.php:19
+#, php-format
+msgid "Day: %s"
+msgstr "Giorno: %s"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/archive.php:42
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/date.php:22
+#, php-format
+msgid "Month: %s"
+msgstr "Mese: %s"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/archive.php:45
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/date.php:25
+#, php-format
+msgid "Year: %s"
+msgstr "Anno: %s"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/archive.php:48
+msgid "Asides"
+msgstr "Asides"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/archive.php:51
+msgid "Images"
+msgstr "Immagini"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/archive.php:54
+msgid "Videos"
+msgstr "Video"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/archive.php:57
+msgid "Quotes"
+msgstr "Citazioni"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/archive.php:60
+msgid "Links"
+msgstr "Link"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/archive.php:63
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/sidebar.php:18
+msgid "Archives"
+msgstr "Archivio"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/comments.php:36
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/comments.php:56
+msgid "Comment navigation"
+msgstr "Navigazione Commenti"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/comments.php:37
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/comments.php:57
+msgid "&larr; Older Comments"
+msgstr "&larr; Commenti più vecchi"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/comments.php:38
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/comments.php:58
+msgid "Newer Comments &rarr;"
+msgstr "Commenti più recenti &rarr;"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/comments.php:68
+msgid "Comments are closed."
+msgstr "Comments are closed."
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/comments.php:82
+msgid "Comment"
+msgstr "Commento"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/comments.php:90
+msgid "Name"
+msgstr "Nome"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/comments.php:96
+msgid "Email"
+msgstr "E-mail"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/comments.php:103
+msgid "Website"
+msgstr "Sito web"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/content-page.php:15
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/content-single.php:20
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/image.php:58
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/video.php:40
+msgid "Pages:"
+msgstr "Pagine: "
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/content-page.php:20
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/content-single.php:63
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/image.php:32
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/image.php:64
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/video.php:79
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/inc/template-tags.php:71
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/inc/template-tags.php:89
+msgid "Edit"
+msgstr "Modifica"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/content-single.php:33
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/content-single.php:36
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/video.php:49
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/video.php:52
+msgid ", "
+msgstr ", "
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/content-single.php:41
+#, php-format
+msgid ""
+"<span class=\"single-tags\"> <i class=\"fa fa-tags\"> </i> %2$s <span class="
+"\"single-tags\">"
+msgstr "<span class=\"single-tags\"> <i class=\"fa fa-tags\"> </i> %2$s <span class=\"single-tags\">"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/content-single.php:49
+#, php-format
+msgid ""
+"<i class=\"fa fa-folder-open\"> </i> %1$s <span class=\"single-tags\"> <i "
+"class=\"fa fa-tags\"> </i> %2$s <span class=\"single-tags\">"
+msgstr "<i class=\"fa fa-folder-open\"> </i> %1$s <span class=\"single-tags\"> <i class=\"fa fa-tags\"> </i> %2$s <span class=\"single-tags\">"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/content-single.php:51
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/video.php:67
+#, php-format
+msgid "<i class=\"fa fa-folder-open\"> </i> %1$s"
+msgstr "<i class=\"fa fa-folder-open\"> </i> %1$s"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/content.php:15
+msgid "<i class=\"fa fa-comment\"> </i> Leave a comment"
+msgstr "<i class=\"fa fa-comment\"> </i> Leave a comment"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/content.php:15
+msgid "<i class=\"fa fa-comment\"> </i> 1 Comment"
+msgstr "<i class=\"fa fa-comment\"> </i> 1 Comment"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/content.php:15
+msgid "<i class=\"fa fa-comments\"> </i> % Comments"
+msgstr "<i class=\"fa fa-comments\"> </i> % Comments"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/content.php:29
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continua a leggere <span class=\"meta-nav\">&rarr;</span>"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/content.php:32
+msgid "Pages: "
+msgstr "Pagine:  "
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/footer.php:21
+#, php-format
+msgid "Inkzine Theme by %1$s."
+msgstr "Inkzine Theme by %1$s."
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/functions.php:34
+msgid "Primary Menu"
+msgstr "Menu Primario"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/functions.php:49
+msgid "Sidebar"
+msgstr "Barra laterale"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/functions.php:57
+msgid "Footer Left"
+msgstr "Footer Left"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/functions.php:65
+msgid "Footer Center"
+msgstr "Footer Center"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/functions.php:73
+msgid "Footer Right"
+msgstr "Footer Right"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/header.php:31
+msgid "Menu"
+msgstr "Menù"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/header.php:32
+msgid "Skip to content"
+msgstr "Vai ai contenuti"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/home.php:25
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/inc/widgets.php:79
+msgid "Latest Articles"
+msgstr "Articoli più Recenti"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/image.php:22
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> at <a href=\"%3$s\">%4$s &times; %5$s</a> in <a "
+"href=\"%6$s\" rel=\"gallery\">%7$s</a>"
+msgstr "Pubblicato <span class=\"entry-date\"> <time class=\"entry-data\" datetime=\"%1$s\">%2$s</time></span> a <a href=\"%3$s\">%4$s &times; %5$s</a> in <a href=\"%6$s\" rel=\"gallery\">%7$s</a>"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/image.php:37
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> Precedente"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/image.php:38
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Avanti <span class=\"meta-nav\">&rarr;</ span>"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/no-results.php:13
+msgid "Nothing Found"
+msgstr "Nessun elemento o articolo "
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/no-results.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Pronto a pubblicare il tuo primo post? <a href=\"%1$s\">Inizia qui</ a>."
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/no-results.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr "Mi dispiace ma non ho trovato nulla con questa parola chiave. Riprova con qualcos'altro"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/no-results.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:24
+msgid "Random"
+msgstr "Casuale"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:25
+msgid "Slice Down"
+msgstr "Slice Down"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:26
+msgid "Slice Up"
+msgstr "Slice Up"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:27
+msgid "Slice Up Left"
+msgstr "Slice Up Left"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:28
+msgid "Slice Up Down"
+msgstr "Slice Up Down"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:29
+msgid "Slice Up Down Left"
+msgstr "Slice Up Down Left"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:30
+msgid "Fold"
+msgstr "Passare"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:31
+msgid "Box Random"
+msgstr "Box Random"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:32
+msgid "Slide In Right"
+msgstr "Slide In Right"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:33
+msgid "Slide In Left"
+msgstr "Slide In Left"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:34
+msgid "Box Rain"
+msgstr "Box Rain"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:35
+msgid "Box Rain Reverse"
+msgstr "Box Rain Reverse"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:36
+msgid "Box Rain Grow"
+msgstr "Box Rain Grow"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:37
+msgid "Box Rain Grow Reverse"
+msgstr "Box Rain Grow Reverse"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:38
+msgid "Fade"
+msgstr "Sfuma"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:41
+msgid "true"
+msgstr "vero"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:42
+msgid "false"
+msgstr "falso"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:51
+msgid "4"
+msgstr ". . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . 4"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:52
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/inc/widgets.php:85
+msgid "5"
+msgstr "5"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:53
+msgid "6"
+msgstr "6"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:54
+msgid "7"
+msgstr "PP-GR"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:55
+msgid "8"
+msgstr "9"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:56
+msgid "9"
+msgstr "9"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:57
+msgid "10"
+msgstr "1"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:58
+msgid "11"
+msgstr "1"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:59
+msgid "12"
+msgstr ". . . . . . . . . . . . . . . .. 12"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:65
+msgid "Basic"
+msgstr "Base"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:69
+msgid "Site Logo"
+msgstr "Site Logo"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:70
+msgid "Leave Blank to use text Heading."
+msgstr "Leave Blank to use text Heading."
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:76
+msgid ""
+"For More Cuztomization Options including Favicon, Styles, etc., <a target="
+"\"_blank\" href=\"http://inkhive.com/product/inkzine-plus/\">Upgrade to Pro "
+"Now.</a> "
+msgstr "For More Cuztomization Options including Favicon, Styles, etc., <a target=\"_blank\" href=\"http://inkhive.com/product/inkzine-plus/\">Upgrade to Pro Now.</a> "
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:80
+msgid "Homepage Title For Posts Area"
+msgstr "Homepage Title For Posts Area"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:81
+msgid "The title of the Posts Area"
+msgstr "The title of the Posts Area"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:88
+msgid "Copyright Text"
+msgstr "Copyright Text"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:89
+msgid ""
+"Some Text regarding copyright of your site, you would like to display in the "
+"footer."
+msgstr "Some Text regarding copyright of your site, you would like to display in the footer."
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:99
+msgid "Layout"
+msgstr "Disposizione"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:114
+msgid ""
+"With Inkzine Plus You can choose from Multiple Homepage Layouts including "
+"Masonry, Grid, Grid+ and Poster Layout. <a target=\"_blank\" href=\"http://"
+"inkhive.com/product/inkzine-plus/\">Upgrade to Pro Now.</a> "
+msgstr "With Inkzine Plus You can choose from Multiple Homepage Layouts including Masonry, Grid, Grid+ and Poster Layout. <a target=\"_blank\" href=\"http://inkhive.com/product/inkzine-plus/\">Upgrade to Pro Now.</a> "
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:118
+msgid "Custom CSS"
+msgstr "Custom CSS"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:119
+msgid ""
+"Some Custom Styling for your site. Place any css codes here instead of the "
+"style.css file."
+msgstr "Some Custom Styling for your site. Place any css codes here instead of the style.css file."
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:126
+msgid "Carousel"
+msgstr "Carousel"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:130
+msgid ""
+"Inkzine Plus supports a full fledged Carousel. <a target=\"_blank\" href="
+"\"http://inkhive.com/product/inkzine-plus/\">Upgrade to Pro Now.</a> "
+msgstr "Inkzine Plus supports a full fledged Carousel. <a target=\"_blank\" href=\"http://inkhive.com/product/inkzine-plus/\">Upgrade to Pro Now.</a> "
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:135
+msgid "Slider"
+msgstr "Slider"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:139
+msgid ""
+"Inkzine Plus supports a full fledged Slider with plenty of customization "
+"settings including speed, transition effects, etc. <a target=\"_blank\" href="
+"\"http://inkhive.com/product/inkzine-plus/\">Upgrade to Pro Now.</a> "
+msgstr "Inkzine Plus supports a full fledged Slider with plenty of customization settings including speed, transition effects, etc. <a target=\"_blank\" href=\"http://inkhive.com/product/inkzine-plus/\">Upgrade to Pro Now.</a> "
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:146
+msgid "Tickr"
+msgstr "Tickr"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:150
+msgid "Enable Tickr"
+msgstr "Enable Tickr"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:151
+msgid "Check this to Enable Tickr"
+msgstr "Check this to Enable Tickr"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:157
+msgid ""
+"With InkZine Plus you can Enable this ticker on all other pages inlcuding "
+"Static Front Page, Posts, Pages, Archives, etc. <a target=\"_blank\" href="
+"\"http://inkhive.com/product/inkzine-plus/\">Upgrade to Pro Now.</a> "
+msgstr "With InkZine Plus you can Enable this ticker on all other pages inlcuding Static Front Page, Posts, Pages, Archives, etc. <a target=\"_blank\" href=\"http://inkhive.com/product/inkzine-plus/\">Upgrade to Pro Now.</a> "
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:162
+msgid "Select Tickr Category"
+msgstr "Select Tickr Category"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:163
+msgid "The category from which posts will be fetched"
+msgstr "The category from which posts will be fetched"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:170
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:214
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:241
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:268
+msgid "Select No of Posts"
+msgstr "Select No of Posts"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:171
+msgid "The no. of posts you want to display in the tickr."
+msgstr "The no. of posts you want to display in the tickr."
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:179
+msgid ""
+"InkZine Plus allows you to choose more settings like Ticker Speed, infinite "
+"looping, etc. <a target=\"_blank\" href=\"http://inkhive.com/product/inkzine-"
+"plus/\">Upgrade to Pro Now.</a> "
+msgstr "InkZine Plus allows you to choose more settings like Ticker Speed, infinite looping, etc. <a target=\"_blank\" href=\"http://inkhive.com/product/inkzine-plus/\">Upgrade to Pro Now.</a> "
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:185
+msgid "ShowCase"
+msgstr "ShowCase"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:189
+msgid "Enable Showcase"
+msgstr "Enable Showcase"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:190
+msgid "Check this to Enable Showcase"
+msgstr "Check this to Enable Showcase"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:196
+msgid "Showcase 1 Title"
+msgstr "Showcase 1 Title"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:197
+msgid "Title of the first Showcase Block."
+msgstr "Title of the first Showcase Block."
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:205
+msgid "Select Category 1"
+msgstr "Select Category 1"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:206
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:233
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:260
+msgid "The category from which posts will be fetched."
+msgstr "The category from which posts will be fetched."
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:215
+msgid "The no. of posts you want to display For Category 1."
+msgstr "The no. of posts you want to display For Category 1."
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:223
+msgid "Showcase 2 Title"
+msgstr "Showcase 2 Title"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:224
+msgid "Title of the second Showcase Block."
+msgstr "Title of the second Showcase Block."
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:232
+msgid "Select Category 2"
+msgstr "Select Category 2"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:242
+msgid "The no. of posts you want to display For Category 2."
+msgstr "The no. of posts you want to display For Category 2."
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:250
+msgid "Showcase 3 Title"
+msgstr "Showcase 3 Title"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:251
+msgid "Title of the third Showcase Block."
+msgstr "Title of the third Showcase Block."
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:259
+msgid "Select Category 3"
+msgstr "Select Category 3"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:269
+msgid "The no. of posts you want to display For Category 3."
+msgstr "The no. of posts you want to display For Category 3."
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:279
+msgid "Social"
+msgstr "Social Media"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:283
+msgid "Facebook"
+msgstr "Facebook"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:284
+msgid "Facebook Profile or Page URL i.e. http://facebook.com/username/ "
+msgstr "Facebook Profile or Page URL i.e. http://facebook.com/username/ "
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:291
+msgid "Twitter"
+msgstr "Twitter"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:292
+msgid "Twitter Username"
+msgstr "Twitter Username"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:299
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:300
+msgid "Google Plus profile url, including \"http://\""
+msgstr "Google Plus profile url, including \"http://\""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:307
+msgid "Feeburner"
+msgstr "Feeburner"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:308
+msgid "URL for your RSS Feeds"
+msgstr "URL for your RSS Feeds"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:315
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:316
+msgid "Your Pinterest Profile URL"
+msgstr "Your Pinterest Profile URL"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:323
+msgid "Instagram"
+msgstr "Instagram"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:324
+msgid "Your Instagram Profile URL"
+msgstr "Your Instagram Profile URL"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:331
+msgid "Linked In"
+msgstr "Linked In"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:332
+msgid "Your Linked In Profile URL"
+msgstr "Your Linked In Profile URL"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:339
+msgid "Youtube"
+msgstr "Youtube"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:340
+msgid "Your Youtube Channel URL"
+msgstr "Your Youtube Channel URL"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:347
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:348
+msgid "Your Tumblr Blog URL"
+msgstr "Your Tumblr Blog URL"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:355
+msgid "Flickr"
+msgstr "Flickr"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:356
+msgid "Your Flickr Profile URL"
+msgstr "Your Flickr Profile URL"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:363
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:364
+msgid "Your Dribble Profile URL"
+msgstr "Your Dribble Profile URL"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:371
+msgid ""
+"Inkzine Plus Has More Social Icons. We can add any custom social icon on "
+"request. <a target=\"_blank\" href=\"http://inkhive.com/product/inkzine-plus/"
+"\">Read Features and Buy Inkzine Plus.</a> "
+msgstr "Inkzine Plus Has More Social Icons. We can add any custom social icon on request. <a target=\"_blank\" href=\"http://inkhive.com/product/inkzine-plus/\">Read Features and Buy Inkzine Plus.</a> "
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:375
+msgid "Support"
+msgstr "Supporto"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:379
+msgid ""
+"Inkzine WordPress theme has been Designed and Created by <a href=\"http://"
+"InkHive.com\" target=\"_blank\">InkHive.com</a>. For any Queries or help "
+"regarding this theme, <a href=\"http://wordpress.org/support/theme/inkzine/"
+"\" target=\"_blank\">use the support forums.</a>"
+msgstr "Inkzine WordPress theme has been Designed and Created by <a href=\"http://InkHive.com\" target=\"_blank\">InkHive.com</a>. For any Queries or help regarding this theme, <a href=\"http://wordpress.org/support/theme/inkzine/\" target=\"_blank\">use the support forums.</a>"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:383
+msgid ""
+"A Documentation file has been provided with the theme, for your convenience. "
+"<a target=\"_blank\" href=\""
+msgstr "A Documentation file has been provided with the theme, for your convenience. <a target=\"_blank\" href=\""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:387
+msgid ""
+"Pro Version Comes with Dedicated Support and personal e-mail support. <a "
+"target=\"_blank\" href=\"http://inkhive.com/product/inkzine-plus/\">Upgrade "
+"to Pro Now.</a> "
+msgstr "Pro Version Comes with Dedicated Support and personal e-mail support. <a target=\"_blank\" href=\"http://inkhive.com/product/inkzine-plus/\">Upgrade to Pro Now.</a> "
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:391
+msgid ""
+"<a href=\"http://twitter.com/rohitinked\" target=\"_blank\">Follow Me on "
+"Twitter</a> to know about my upcoming themes."
+msgstr "<a href=\"http://twitter.com/rohitinked\" target=\"_blank\">Follow Me on Twitter</a> to know about my upcoming themes."
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:395
+msgid "Live Demo Blog"
+msgstr "Live Demo Blog"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:396
+msgid ""
+"For your convenience, we have created a <a href=\"http://demo.inkhive.com/"
+"inkzine/\" target=\"_blank\">Live Demo Blog</a> of the theme Inkzine. You "
+"can take a look at and find out how your site would look once complete."
+msgstr "For your convenience, we have created a <a href=\"http://demo.inkhive.com/inkzine/\" target=\"_blank\">Live Demo Blog</a> of the theme Inkzine. You can take a look at and find out how your site would look once complete."
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:400
+msgid "Regenerating Post Thumbnails"
+msgstr "Regenerating Post Thumbnails"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:401
+msgid ""
+"If you are using inkzine Theme on a New Wordpress Installation, then you can "
+"skip this section.<br />But if you have just switched to this theme from "
+"some other theme, then you are requested regenerate all the post thumbnails. "
+"It will fix all the issues you are facing with distorted & ugly homepage "
+"thumbnail Images. "
+msgstr "If you are using inkzine Theme on a New Wordpress Installation, then you can skip this section.<br />But if you have just switched to this theme from some other theme, then you are requested regenerate all the post thumbnails. It will fix all the issues you are facing with distorted & ugly homepage thumbnail Images. "
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:405
+msgid ""
+"To Regenerate all Thumbnail images, Install and Activate the <a href="
+"\"http://wordpress.org/plugins/regenerate-thumbnails/\" target=\"_blank"
+"\">Regenerate Thumbnails</a> WP Plugin. Then from <strong>Tools &gt; Regen. "
+"Thumbnails</strong>, re-create thumbnails for all your existing images. And "
+"your blog will look even more stylish with Inkzine theme.<br /> "
+msgstr "To Regenerate all Thumbnail images, Install and Activate the <a href=\"http://wordpress.org/plugins/regenerate-thumbnails/\" target=\"_blank\">Regenerate Thumbnails</a> WP Plugin. Then from <strong>Tools &gt; Regen. Thumbnails</strong>, re-create thumbnails for all your existing images. And your blog will look even more stylish with Inkzine theme.<br /> "
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:410
+msgid ""
+"<strong>Note:</strong> Regenerating the thumbnails, will not affect your "
+"original images. It will just generate a separate image file for those "
+"images."
+msgstr "<strong>Note:</strong> Regenerating the thumbnails, will not affect your original images. It will just generate a separate image file for those images."
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:415
+msgid "Theme Credits"
+msgstr "Theme Credits"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:416
+msgid ""
+"Check this if you want to you do not want to give us credit in your site "
+"footer."
+msgstr "Check this if you want to you do not want to give us credit in your site footer."
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:422
+msgid "Upgrade to Pro"
+msgstr "Upgrade to Pro"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/options.php:426
+msgid ""
+"Pro Version of Inkzine Plus Comes with a Huge Set of Features inlcuding "
+"Custom Widgets, Support for Older Browsers, Multiple Layouts for HomePage, "
+"More Skins, More Features, More Settings, etc. <a target=\"_blank\" href="
+"\"http://inkhive.com/product/inkzine-plus/\">Read all features and Upgrade "
+"to Inkzine Plus.</a> "
+msgstr "Pro Version of Inkzine Plus Comes with a Huge Set of Features inlcuding Custom Widgets, Support for Older Browsers, Multiple Layouts for HomePage, More Skins, More Features, More Settings, etc. <a target=\"_blank\" href=\"http://inkhive.com/product/inkzine-plus/\">Read all features and Upgrade to Inkzine Plus.</a> "
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Risultati per: %s"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/searchform-top.php:12
+msgid "Search..."
+msgstr "Cerca..."
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/searchform.php:12
+msgid "Search for anything on this site..."
+msgstr "Search for anything on this site..."
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/sidebar.php:25
+msgid "Meta"
+msgstr "Meta"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/video.php:57
+#, php-format
+msgid "<i class=\"fa fa-tags\"> </i> %2$s"
+msgstr "<i class=\"fa fa-tags\"> </i> %2$s"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/video.php:65
+#, php-format
+msgid ""
+"<i class=\"fa fa-folder-open\"> </i> %1$s <i class=\"fa fa-tags\"> </i> %2$s"
+msgstr "<i class=\"fa fa-folder-open\"> </i> %1$s <i class=\"fa fa-tags\"> </i> %2$s"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/inc/customizer.php:23
+msgid "Site Title Color"
+msgstr "Site Title Color"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/inc/customizer.php:34
+msgid "Site Description Color"
+msgstr "Site Description Color"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/inc/extras.php:66
+#, php-format
+msgid "Page %s"
+msgstr "Pagina %"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/inc/options-framework.php:147
+msgid "Inkzine Theme Options"
+msgstr "Inkzine Theme Options"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/inc/options-framework.php:148
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/inc/options-framework.php:377
+msgid "Inkzine Settings"
+msgstr "Inkzine Settings"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/inc/options-framework.php:193
+msgid "Clear"
+msgstr "Elimina"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/inc/options-framework.php:194
+msgid "Default"
+msgstr "Predefinito"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/inc/options-framework.php:195
+msgid "Select Color"
+msgstr "Seleziona colore"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/inc/options-framework.php:240
+msgid "Save Options"
+msgstr "Save Options"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/inc/options-framework.php:241
+msgid "Restore Defaults"
+msgstr "Restore Defaults"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/inc/options-framework.php:241
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr "Fare clic su OK per ripristinare. Tutte le impostazioni del tema saranno perse!"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/inc/options-framework.php:273
+msgid "Default options restored."
+msgstr "Default options restored."
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/inc/options-framework.php:327
+msgid "Options saved."
+msgstr "Options saved."
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/inc/options-media-uploader.php:51
+msgid "No file chosen"
+msgstr "No file chosen"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/inc/options-media-uploader.php:54
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/inc/options-media-uploader.php:113
+msgid "Upload"
+msgstr "Carica"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/inc/options-media-uploader.php:56
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/inc/options-media-uploader.php:114
+msgid "Remove"
+msgstr "Rimuovi"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/inc/options-media-uploader.php:59
+msgid "Upgrade your version of WordPress for full media support."
+msgstr "Upgrade your version of WordPress for full media support."
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/inc/options-media-uploader.php:83
+msgid "View File"
+msgstr "View File"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/inc/options-sanitize.php:237
+msgid "No Repeat"
+msgstr "Nessuna ripetizione"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/inc/options-sanitize.php:238
+msgid "Repeat Horizontally"
+msgstr "Repeat Horizontally"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/inc/options-sanitize.php:239
+msgid "Repeat Vertically"
+msgstr "Repeat Vertically"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/inc/options-sanitize.php:240
+msgid "Repeat All"
+msgstr "Repeat All"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/inc/options-sanitize.php:253
+msgid "Top Left"
+msgstr "Top Left"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/inc/options-sanitize.php:254
+msgid "Top Center"
+msgstr "Top Center"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/inc/options-sanitize.php:255
+msgid "Top Right"
+msgstr "Top Right"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/inc/options-sanitize.php:256
+msgid "Middle Left"
+msgstr "Middle Left"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/inc/options-sanitize.php:257
+msgid "Middle Center"
+msgstr "Middle Center"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/inc/options-sanitize.php:258
+msgid "Middle Right"
+msgstr "Middle Right"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/inc/options-sanitize.php:259
+msgid "Bottom Left"
+msgstr "Bottom Left"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/inc/options-sanitize.php:260
+msgid "Bottom Center"
+msgstr "Bottom Center"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/inc/options-sanitize.php:261
+msgid "Bottom Right"
+msgstr "Bottom Right"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/inc/options-sanitize.php:274
+msgid "Scroll Normally"
+msgstr "Scroll Normally"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/inc/options-sanitize.php:275
+msgid "Fixed in Place"
+msgstr "Fixed in Place"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/inc/options-sanitize.php:349
+msgid "Normal"
+msgstr "Normale"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/inc/options-sanitize.php:350
+msgid "Italic"
+msgstr "Corsivo"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/inc/options-sanitize.php:351
+msgid "Bold"
+msgstr "Grassetto"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/inc/options-sanitize.php:352
+msgid "Bold Italic"
+msgstr "Bold Italic"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/inc/template-tags.php:34
+msgid "Post navigation"
+msgstr "Post navigation"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/inc/template-tags.php:38
+msgid "&larr;"
+msgstr "&larr;"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/inc/template-tags.php:39
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/inc/template-tags.php:44
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Articoli più vecchi"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/inc/template-tags.php:48
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Articoli più recenti <span class=\"meta-nav\">&rarr;</span>"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/inc/template-tags.php:71
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/inc/template-tags.php:86
+#, php-format
+msgid "%1$s"
+msgstr "%1$s"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/inc/template-tags.php:93
+msgid "Your comment is awaiting moderation."
+msgstr "Il tuo commento è in attesa di approvazione del moderatore"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/inc/template-tags.php:183
+#, php-format
+msgid ""
+"<span class=\"posted-on\"><i class=\"fa fa-clock-o\"> </i> %1$s</span> <span "
+"class=\"byline\"> <i class=\"fa fa-user\"> </i> %2$s</span>"
+msgstr "<span class=\"posted-on\"><i class=\"fa fa-clock-o\"> </i> %1$s</span> <span class=\"byline\"> <i class=\"fa fa-user\"> </i> %2$s</span>"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/inc/widgets.php:13
+msgid "Inkzine Recent Posts"
+msgstr "Inkzine Recent Posts"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/inc/widgets.php:14
+msgid "Display your recent posts, with a Thumbnail."
+msgstr "Display your recent posts, with a Thumbnail."
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/inc/widgets.php:89
+msgid "Title:"
+msgstr "Titolo:"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/inkzine/inc/widgets.php:92
+msgid "No. of Posts:"
+msgstr "No. of Posts:"
+
